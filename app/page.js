@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <div>
       <div>deneem</div>
+      <div>deneme2</div>
     </div>
   );
 }
