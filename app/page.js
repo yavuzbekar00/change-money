@@ -32,6 +32,7 @@ export default function Home() {
       ) : (
         <div>Loading...</div>
       )}
+      <div>deneme</div>
     </div>
   );
 }
