@@ -1,5 +1,5 @@
 :root {
-  --background: #ffffff;
+  --background: #fafbfc;
   --foreground: #171717;
 }
 
@@ -39,4 +39,8 @@ a {
   html {
     color-scheme: dark;
   }
+}
+
+.money-hover:hover{
+  background-color: #8bb6fa;
 }
